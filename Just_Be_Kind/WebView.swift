@@ -135,7 +135,7 @@ extension ViewController: WKUIDelegate {
                             }
                             
                             //decisionHandler(.allow)
-                            return
+                            //return // fix crach pages
                         }
                         else {
                             
